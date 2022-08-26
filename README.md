@@ -15,16 +15,14 @@
 
   <div class="w3-padding w3-xlarge w3-teal">
     <i class="material-icons">home</i>
-    <i class="material-icons">search</i>
-    <i class="material-icons">cloud</i>
+ 
     <i class="material-icons">delete</i>
     Welcome!
   </div>
 
  <div class="w3-padding w3-xlarge w3-text-orange">
     <i class="material-icons">home</i>
-    <i class="material-icons">search</i>
-    <i class="material-icons">cloud</i>
+   
     <i class="material-icons">delete</i>
     Welcome!
   </div>
